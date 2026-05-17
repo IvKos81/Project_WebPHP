@@ -3,7 +3,7 @@
     <div class="container hero-contacts">
         <h1>Lorem Ipsum is simply dummy text of the printing and.</h1>
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-        <img src="/img/Map.png" alt="">
+        <img src="./img/Map.png" alt="">
     </div>
 
     <div class="feedback">
@@ -34,7 +34,7 @@
     </div>
 
     <?php require_once('./components/footer.php'); ?>
-    
+
 </body>
 
 </html>
