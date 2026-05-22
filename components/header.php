@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Game Website</title>
-    <link rel="stylesheet" href="git./css/main.css">
+    <link rel="stylesheet" href="../css/main.css">
 </head>
 <body>
     <div class="wrapper">
@@ -16,8 +16,8 @@
             <li class="active"><a href="./">Home</a></li>
             <li><a href="./about.php">About us</a></li>
             <li><a href="#">Portfolio</a></li>
-            <li><a href="./lib/reg.php">Registration</a></li>
-            <li class="btn"><a href="./contacts.php">Contacts</a></li>
+            <li><a href="./register.php">Registration</a></li>
+            <li class="btn"><a href=" ./contacts.php">Contacts</a></li>
           </ul>
         </nav>
       </header>
